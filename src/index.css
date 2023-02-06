@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.video{
+  border-radius:20px;
+}
+li{
+  list-style: none;
+}
+input:focus{
+  outline-style: none;
+}
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  background: url(https://dziendobry.tvn.pl/najnowsze/cdn-zdjecie-u3n09n-pogoda-na-piatek-19-sierpnia-2022-r-6074503/GettyImages-980499598.jpg);
+}
+.weather{
+  background: rgba(255, 255, 255, 0.325);
+  border-radius:20px;
+  margin-top: 100px;
+}
+.h2{
+  margin-left:60px;
+  margin-top:20px;
+}
